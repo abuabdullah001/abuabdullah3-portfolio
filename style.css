@@ -1,0 +1,146 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;;
+}
+.futani3{
+
+}
+h1{
+    font-size:50px;
+     font-color:green;
+     padding-top: 20px;
+ }
+
+.futani{
+    color: green;
+}
+.futani1{
+    color: orange;
+}
+.futani2{
+width: 50%;
+}
+.futani2 p{
+  padding-left:  10px;
+
+}
+.futani2 h3{
+    padding-left:  10px;
+  
+  }
+  .futani2 h1{
+    padding-left:  10px;
+  
+  }
+  .link-button{
+      text-decoration: none;
+      background-image: linear-gradient(red,orange);
+      padding: 10px 40px;
+      margin-left: 10px;
+      font-weight: 700;
+      color: white;
+  }
+  
+
+.futani3{
+    width: 50%;
+   
+    }
+
+    .futani3 img{
+    width: 60%;
+    padding-left: 150px;
+    }
+  
+
+
+.top-banner{
+    display: flex;
+    background-image: url(developer-portfolio-master/images/top-banner.png);
+background-repeat: no-repeat;
+}
+.half-part2{
+
+    width: 50%;
+    margin-top: 200px;
+    margin-left: 450px;
+    margin-right: 50px;
+}
+.half-part{
+
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 00px;
+    margin-right: 50px;
+}
+
+.half-part h1{
+    color: springgreen;
+}
+
+.half-part h2{
+    color: rgb(81, 255, 0);
+}
+
+
+.dream-big{
+    display:flex;
+    background-image: url(developer-portfolio-master/images/dream-bg.png);
+background-repeat: no-repeat;
+margin-bottom: 20px;
+
+background-position: right;
+
+}
+
+
+.experience{
+ 
+    margin-top: 150px;
+    background-image: url(developer-portfolio-master/images/exp-bg.png);
+position:left;
+background-repeat: no-repeat;
+position:bottom;
+}
+.baap{
+    display: flex;
+    width: 90%;
+    margin-left: 100px;
+ 
+ 
+ 
+
+}
+.baap h2{
+    color:orange;
+}
+.first{
+   
+    width: 40%;
+    box-shadow: 10px 10px 40px black;
+   
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    border-left: 5px solid greenyellow;
+}
+
+.second{
+
+    width: 40%;
+    box-shadow: 10px 10px 40px black;
+   padding-left: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+   border-radius: 10px;
+   border-left: 5px solid ;
+   border-image: linear-gradient(orange,cyan);
+   border-image-slice:1;
+}
+footer p{
+    height: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+
